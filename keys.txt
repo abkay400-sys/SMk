@@ -1,0 +1,11 @@
+/genkey unlimited 8565708186
+/genkey
+/key
+/key
+/genkey
+/genkey  1d 31:c7:1d:74:d3:4f
+/genkey 1d. 31:c7:1d:74:d3:4f
+/add 31:c7:1d:74:d3:4f
+/add 1d 31:c7:1d:74:d3:4f
+/add a9:a4:90:40:03:0c
+2a:a9:a4:92:4a:2a
